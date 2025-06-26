@@ -1,0 +1,294 @@
+MASTER_GUEST_ID,persona_cluster_label,campaign_key,prompt,cluster_sentence,persona_sentence,email_generated
+70c57a00-5368-4ccc-b6fe-0e82e5c94d46,Low-Spend Store Shoppers,new_arrival,"Write a personalized marketing email.
+
+Persona: regular app shopper from CA focused on Running, a high spender and value-conscious, recent guest who frequently uses promo codes like WINTER20, last purchased 27 days ago. Has 1 STORE, 1 ECOM, 3 APP transactions.
+Segment: Low-Spend Store Shoppers
+Campaign Type: New Arrival
+Offer: “Discover the latest in Running — just arrived!”
+Tone: Fresh and trendy
+Call-to-action: “Explore Now”
+","These are low spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular app shopper from CA focused on Running, a high spender and value-conscious, recent guest who frequently uses promo codes like WINTER20, last purchased 27 days ago. Has 1 STORE, 1 ECOM, 3 APP transactions.","Subject: 🏃‍♀️ Dive into the Newest Running Gear Just In!
+
+Hi [First Name],
+
+We hope this email finds you well and still enjoying those last running essentials you snagged with the WINTER20 promo code! As a valued shopper who always seeks the latest trends in running, we wanted to share some exciting news with you.
+
+Fresh off the shelves, we have just received a brand new collection of running gear that we know you'll love. From high-performance sneakers to moisture-wicking apparel, these new arrivals are designed to take your runs to the next level.
+
+With your keen eye for quality and value, we're thrilled to offer you an exclusive first look at these exciting additions. Whether you're gearing up for a marathon or just hitting the pavement for a casual jog, we've got everything you need to stay stylish and comfortable on the go.
+
+Ready to explore the latest in running? Click below to browse our new arrivals and find your next favorite piece!
+
+👟 Explore Now
+
+Thank you for being a loyal customer and a true running enthusiast. We can't wait to see you sporting our newest collection on your next adventure!
+
+Happy running!
+
+Warm regards,
+
+[Your Name]
+Your Marketing Team at [Your Company]"
+78203cdd-d96e-47bb-84ec-9dbf56660c4f,Mid-Spend Omnichannel Guests,seasonal_sale,"Write a personalized marketing email.
+
+Persona: regular store shopper from US focused on Outerwear, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like NEWYEAR10, last purchased 74 days ago. Has 3 STORE, 1 ECOM, 2 APP transactions.
+Segment: Mid-Spend Omnichannel Guests
+Campaign Type: Seasonal Sale
+Offer: “Seasonal offer: 30% off all Outerwear items!”
+Tone: Exciting and persuasive
+Call-to-action: “Shop the Sale”
+","These are mid spenders who are moderately engaged and somewhat active. They primarily shop via STORE, and are typically value-conscious.","regular store shopper from US focused on Outerwear, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like NEWYEAR10, last purchased 74 days ago. Has 3 STORE, 1 ECOM, 2 APP transactions.","Subject: 🌟 Exclusive Seasonal Sale: 30% off all Outerwear items! 🧥
+
+Hi [First Name],
+
+We hope this email finds you well and staying cozy this season! As a valued Mid-Spend Omnichannel Guest who loves our Outerwear collection, we wanted to share an exclusive offer just for you.
+
+For a limited time, you can enjoy a fabulous 30% discount on all Outerwear items across our store, online, and on our app! Whether you're looking for a stylish new jacket, a comfy coat, or a trendy parka, we've got you covered.
+
+As a high spender and value-conscious shopper like yourself, we know you appreciate great deals. Don't miss out on this amazing opportunity to upgrade your outerwear collection and save big with our Seasonal Sale!
+
+Remember, your favorite promo code NEWYEAR10 is also applicable to this offer, giving you even more savings on top of the 30% discount.
+
+Ready to shop the sale? Simply click the link below or visit any of our stores to browse our latest Outerwear styles and snag your favorites before they're gone.
+
+🛒 Shop the Sale Now 🛒
+
+Thank you for being a loyal customer, and we can't wait to see you rocking your new Outerwear pieces!
+
+Warm regards,
+
+[Your Name]
+Marketing Assistant at [Store Name]"
+b12b763f-aa13-4baf-958b-673db95250a0,High-Spend Multi-Channel Loyalists,loyalty_reward,"Write a personalized marketing email.
+
+Persona: frequent store shopper from US focused on Yoga, a high spender and value-conscious, recent guest who frequently uses promo codes like CYBER15, last purchased 17 days ago. Has 6 STORE, 3 ECOM, 3 APP transactions.
+Segment: High-Spend Multi-Channel Loyalists
+Campaign Type: Loyalty Reward
+Offer: “Exclusive reward: $20 off your next Yoga purchase”
+Tone: Warm and appreciative
+Call-to-action: “Claim Your Reward”
+","These are high spenders who are highly engaged and recently active. They primarily shop via STORE, and are typically value-conscious.","frequent store shopper from US focused on Yoga, a high spender and value-conscious, recent guest who frequently uses promo codes like CYBER15, last purchased 17 days ago. Has 6 STORE, 3 ECOM, 3 APP transactions.","Subject: 🌟 Exclusive Reward Just for You, [First Name]! 🌟
+
+Dear [First Name],
+
+We hope this email finds you well and continuing to find peace and balance through your yoga practice. As a valued member of our community and a loyal customer, we wanted to express our gratitude for your continued support and loyalty.
+
+We've noticed your dedication to your yoga journey and wanted to offer you an exclusive reward as a token of our appreciation. For being such a devoted customer, we are excited to offer you $20 off your next yoga purchase as a special thank you from all of us at [Store Name].
+
+Simply use the promo code YOGA20 at checkout to claim your reward and enjoy some savings on your next yoga essentials. Whether you're in need of new gear, accessories, or wellness products, this reward is our way of saying thank you for choosing us as your go-to destination for all things yoga.
+
+We truly value your loyalty and commitment to our brand, and we look forward to continuing to support you on your yoga journey. Thank you for being a part of our community and for trusting us to provide you with the best products and experiences.
+
+Claim Your Reward Now ➡️ [Link to website]
+
+If you have any questions or need assistance, please don't hesitate to reach out to our customer support team. We're here to help and ensure you have the best shopping experience possible.
+
+Thank you once again for being a valued member of our community. We"
+a5a37ed4-c6f8-48ae-b709-83585b7924b5,High-Spend Deal Seekers,seasonal_sale,"Write a personalized marketing email.
+
+Persona: regular ecom shopper from US focused on Training, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like CYBER15, last purchased 68 days ago. Has 1 STORE, 4 ECOM, 3 APP transactions.
+Segment: High-Spend Deal Seekers
+Campaign Type: Seasonal Sale
+Offer: “Seasonal offer: 30% off all Training items!”
+Tone: Exciting and persuasive
+Call-to-action: “Shop the Sale”
+","These are mid spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular ecom shopper from US focused on Training, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like CYBER15, last purchased 68 days ago. Has 1 STORE, 4 ECOM, 3 APP transactions.","Subject: 🌟 Exclusive Seasonal Sale: 30% off all Training Items Inside! 🌟
+
+Hi [First Name],
+
+Are you ready to take your training to the next level? We have an exclusive offer just for you as a valued shopper at [Store Name]! For a limited time only, enjoy a fantastic 30% off discount on all Training items in our collection.
+
+As a high spender who loves to snag a great deal, we know you appreciate the value of quality products at a discounted price. With this special seasonal sale, you can stock up on all your favorite Training essentials while saving big.
+
+Whether you're looking to upgrade your workout gear, add some new accessories to your routine, or try out the latest training innovations, now is the perfect time to shop. And don't forget to apply your favorite promo code like CYBER15 at checkout for even more savings!
+
+It's been a little while since your last purchase, so we're excited to welcome you back to [Store Name] with this incredible offer. Take advantage of this exclusive deal today and elevate your training experience.
+
+Ready to shop the sale? Simply click the link below to browse our Training collection and unlock your 30% discount on all items:
+
+🛒 Shop Now
+
+Don't miss out on this limited-time opportunity to save big on top-quality Training essentials. Treat yourself to the best gear at unbeatable prices and reach your fitness goals in style!
+
+Thank you for being a loyal shopper at"
+b48e10fe-7ae0-42fb-a9f1-62bd395a64d9,Lapsed Low-Spend Guests,reactivation,"Write a personalized marketing email.
+
+Persona: occasional store shopper from CA focused on Accessories, a mid-level spender and value-conscious, lapsed guest who frequently uses promo codes like WINTER20, last purchased 117 days ago. Has 2 STORE, 0 ECOM, 1 APP transactions.
+Segment: Lapsed Low-Spend Guests
+Campaign Type: We Miss You
+Offer: “Here’s 25% off to welcome you back to our Accessories collection!”
+Tone: Friendly and encouraging
+Call-to-action: “Come Back Today”
+","These are low spenders who are moderately engaged and lapsed. They primarily shop via STORE, and are typically value-conscious.","occasional store shopper from CA focused on Accessories, a mid-level spender and value-conscious, lapsed guest who frequently uses promo codes like WINTER20, last purchased 117 days ago. Has 2 STORE, 0 ECOM, 1 APP transactions.","Subject: We Miss You! Enjoy 25% Off on Our Accessories Collection
+
+Dear [First Name],
+
+We hope this email finds you well! We've noticed that it's been a little while since you last visited our store, and we wanted to reach out to let you know that we miss seeing you around.
+
+As a valued customer with a keen eye for accessories, we have a special offer just for you. How about a warm welcome back with a generous 25% off on our latest Accessories collection? Whether you're looking for a stylish new statement piece or a classic staple, we've got you covered.
+
+Simply use the promo code WINTER20 at checkout to redeem your exclusive discount and treat yourself to something special. We want to make it easy for you to come back and explore our latest offerings.
+
+Don't wait too long to take advantage of this offer – it's our way of saying thank you for being a part of our community. Your unique style and preferences are what make our store special, and we can't wait to help you find your next favorite accessory.
+
+Click the link below to start shopping and rediscover the joy of finding the perfect piece to complete your outfit. Come back today and let's make your next shopping experience even more memorable!
+
+[CTA Button: Come Back Today]
+
+We look forward to welcoming you back and assisting you with all your accessory needs. If you have any questions or need assistance, feel free to reach out to us anytime.
+
+Thank you for being"
+08cbf3c2-324a-4170-9bd7-073d861f53ff,High-Spend Deal Seekers,new_arrival,"Write a personalized marketing email.
+
+Persona: regular app shopper from CA focused on Outerwear, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like NEWYEAR10, last purchased 45 days ago. Has 3 STORE, 3 ECOM, 3 APP transactions.
+Segment: High-Spend Deal Seekers
+Campaign Type: New Arrival
+Offer: “Discover the latest in Outerwear — just arrived!”
+Tone: Fresh and trendy
+Call-to-action: “Explore Now”
+","These are mid spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular app shopper from CA focused on Outerwear, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like NEWYEAR10, last purchased 45 days ago. Has 3 STORE, 3 ECOM, 3 APP transactions.","Subject: 🔥 Just In: New Outerwear Styles Await You!
+
+Hi [First Name],
+
+We hope this email finds you well and still enjoying the latest outerwear piece you purchased from us. We are thrilled to let you know that our newest collection has just landed, and we couldn't wait to share it with our valued customers like you!
+
+As a regular app shopper with a keen eye for great deals, we know you appreciate staying ahead of the fashion curve without breaking the bank. That's why we wanted to personally invite you to explore our latest outerwear arrivals, perfectly designed to keep you stylish and cozy this season.
+
+From trendy coats to versatile jackets, our new collection has something for every style preference. Whether you're looking for a statement piece or a classic staple, we've got you covered.
+
+To make this offer even more irresistible, we're extending a special deal just for you: ""Discover the latest in Outerwear — just arrived!"" Don't miss out on the chance to upgrade your wardrobe with our high-quality outerwear at an exclusive price.
+
+Ready to elevate your outerwear game? Simply click below to explore our new arrivals and find your perfect match:
+
+[Explore Now]
+
+Hurry, as these new styles are already gaining popularity among our fashion-forward customers. Treat yourself to a fresh update and make a statement wherever you go!
+
+Thank you for being a loyal customer and choosing us for your outerwear needs. We can't wait to see how you rock our latest pieces!
+
+Warm regards"
+a7175433-98af-43d0-b5f4-73d68b78634d,High-Spend Deal Seekers,seasonal_sale,"Write a personalized marketing email.
+
+Persona: regular app shopper from IN focused on Running, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like CYBER15, last purchased 48 days ago. Has 0 STORE, 3 ECOM, 4 APP transactions.
+Segment: High-Spend Deal Seekers
+Campaign Type: Seasonal Sale
+Offer: “Seasonal offer: 30% off all Running items!”
+Tone: Exciting and persuasive
+Call-to-action: “Shop the Sale”
+","These are mid spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular app shopper from IN focused on Running, a high spender and value-conscious, somewhat active guest who frequently uses promo codes like CYBER15, last purchased 48 days ago. Has 0 STORE, 3 ECOM, 4 APP transactions.","Subject: Exclusive Seasonal Sale: 30% off all Running Items!
+
+Hi [Name],
+
+As a valued high-spending customer who loves to stay active and save big, we have an exclusive offer just for you! For a limited time, enjoy a fantastic 30% discount on all Running items in our store with the promo code SEASON30.
+
+With your passion for running and dedication to finding great deals, this is the perfect opportunity to stock up on your favorite gear without breaking the bank. Whether you're looking for new running shoes, performance apparel, or accessories to enhance your workouts, we've got you covered.
+
+Don't miss out on this exciting seasonal sale - simply click the button below to start shopping and save 30% on all Running items today!
+
+Shop the Sale
+
+Hurry, this offer won't last long! Thank you for being a loyal customer and we can't wait to see you make the most of this amazing deal.
+
+Happy Running!
+
+Best regards,
+[Your Name]
+[Your Title]"
+d6337d83-89c8-47b7-b546-370647743a0e,High-Spend Deal Seekers,seasonal_sale,"Write a personalized marketing email.
+
+Persona: regular app shopper from GB focused on Accessories, a high spender and value-conscious, recent guest who frequently uses promo codes like BLACKFRIDAY, last purchased 5 days ago. Has 3 STORE, 2 ECOM, 4 APP transactions.
+Segment: High-Spend Deal Seekers
+Campaign Type: Seasonal Sale
+Offer: “Seasonal offer: 30% off all Accessories items!”
+Tone: Exciting and persuasive
+Call-to-action: “Shop the Sale”
+","These are mid spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular app shopper from GB focused on Accessories, a high spender and value-conscious, recent guest who frequently uses promo codes like BLACKFRIDAY, last purchased 5 days ago. Has 3 STORE, 2 ECOM, 4 APP transactions.","Subject: Exclusive Seasonal Sale: Enjoy 30% off all Accessories items!
+
+Dear valued shopper,
+
+We hope this email finds you well! We want to express our gratitude for your continued support and loyalty as a high-spending deal seeker at our store. Your recent purchase just 5 days ago using the BLACKFRIDAY promo code did not go unnoticed!
+
+As a token of appreciation, we are thrilled to offer you an exclusive seasonal deal: enjoy a fantastic 30% discount on all Accessories items! Whether you're looking for a stylish new phone case, trendy sunglasses, or chic handbags, now is the perfect time to treat yourself with this incredible offer.
+
+With your keen eye for value and love for shopping, we know you won't want to miss out on this opportunity to save big on your favorite accessories. Simply click the link below to start shopping and discover the latest must-have items at unbeatable prices.
+
+Shop the Sale
+
+We're confident that you'll find something that catches your eye and adds that perfect finishing touch to your style. Hurry, as this offer is only available for a limited time!
+
+Thank you once again for choosing us for your accessory needs. We appreciate your support and look forward to continuing to provide you with exceptional deals and top-quality products.
+
+Happy shopping!
+
+Warm regards,
+
+[Your Name]
+Marketing Team
+[Your Company]"
+8176da8c-8dda-4ad5-8947-fb676f82871b,Low-Spend Store Shoppers,reactivation,"Write a personalized marketing email.
+
+Persona: regular ecom shopper from AU focused on Outerwear, a high spender and value-conscious, lapsed guest who frequently uses promo codes like BLACKFRIDAY, last purchased 97 days ago. Has 0 STORE, 3 ECOM, 2 APP transactions.
+Segment: Low-Spend Store Shoppers
+Campaign Type: We Miss You
+Offer: “Here’s 25% off to welcome you back to our Outerwear collection!”
+Tone: Friendly and encouraging
+Call-to-action: “Come Back Today”
+","These are low spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular ecom shopper from AU focused on Outerwear, a high spender and value-conscious, lapsed guest who frequently uses promo codes like BLACKFRIDAY, last purchased 97 days ago. Has 0 STORE, 3 ECOM, 2 APP transactions.","Subject: We Miss You! Enjoy 25% off on Outerwear Today 🧥
+
+Hi [First Name],
+
+We hope this message finds you well! It's been a little while since you last visited us, and we wanted to reach out to let you know how much we miss having you around.
+
+As a valued customer who appreciates quality outerwear, we wanted to offer you an exclusive 25% discount to welcome you back to our Outerwear collection. Whether you're looking for a cozy jacket for the cooler days ahead or a stylish coat to elevate your wardrobe, we have something for every occasion.
+
+Simply use code WELCOME25 at checkout to enjoy your discount and update your outerwear collection at a fantastic price.
+
+We understand the importance of finding the perfect balance between quality and value, and we believe our outerwear pieces are a true reflection of that. Don't miss out on this opportunity to treat yourself to something special.
+
+Click the link below to start shopping and rediscover the joy of updating your wardrobe with our latest Outerwear collection.
+
+[CTA: Come Back Today]
+
+We can't wait to see you back shopping with us again! If you have any questions or need assistance, please feel free to reach out to our customer support team.
+
+Thank you for being a part of our community of outerwear enthusiasts. We look forward to helping you find your next favorite piece!
+
+Warm regards,
+
+[Your Name]
+Marketing Assistant
+Our Outerwear Store
+
+P.S. This offer is"
+9532c97e-b23c-4f70-b5b8-384b5b754d61,Low-Spend Store Shoppers,seasonal_sale,"Write a personalized marketing email.
+
+Persona: regular ecom shopper from SG focused on Footwear, a high spender and value-conscious, recent guest who frequently uses promo codes like CYBER15, last purchased 18 days ago. Has 0 STORE, 4 ECOM, 2 APP transactions.
+Segment: Low-Spend Store Shoppers
+Campaign Type: Seasonal Sale
+Offer: “Seasonal offer: 30% off all Footwear items!”
+Tone: Exciting and persuasive
+Call-to-action: “Shop the Sale”
+","These are low spenders who are moderately engaged and somewhat active. They primarily shop via APP, and are typically deal seekers.","regular ecom shopper from SG focused on Footwear, a high spender and value-conscious, recent guest who frequently uses promo codes like CYBER15, last purchased 18 days ago. Has 0 STORE, 4 ECOM, 2 APP transactions.","Subject: 🌟 Don't Miss Out: 30% Off All Footwear - Exclusive Offer Inside! 🌟
+
+Hi [Name],
+
+We hope this email finds you well! As a valued customer and a savvy shopper, we wanted to personally extend an exclusive seasonal offer just for you. For a limited time only, enjoy a fantastic 30% discount on all Footwear items when you shop with us!
+
+You've shown us your keen eye for style and quality with your previous purchases, and we know how important it is for you to find the perfect pair of shoes at a great price. That's why we're thrilled to offer you this special discount as a token of our appreciation for your loyalty.
+
+Whether you're looking for stylish sneakers, classic loafers, or trendy boots, our wide selection of Footwear has something for every occasion and style preference. With this amazing offer, now is the perfect time to treat yourself to that pair you've been eyeing or stock up on essentials for the season ahead.
+
+To redeem your 30% discount, simply use promo code SEASON30 at checkout. But hurry – this offer is only valid for a limited time!
+
+Click below to start shopping and discover the perfect pair of shoes to elevate your wardrobe:
+
+👠 Shop the Sale 👞
+
+Thank you for choosing us for your footwear needs. We can't wait to see how you style your new shoes!
+
+Happy shopping!
+
+Warm regards,
+
+[Your Name]
+Your Marketing Team at ["
